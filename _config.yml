@@ -19,6 +19,7 @@ locale                   : "en-US"
 title                    : "Young Hyun's BLOG"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
+avatar                   : "/assets/avatar.jpg"
 name                     : "Young Hyun"
 description              : "Web Developer"
 url                      : "https://purin715.github.io"
